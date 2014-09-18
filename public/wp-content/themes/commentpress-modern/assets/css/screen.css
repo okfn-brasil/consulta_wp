@@ -26,8 +26,8 @@ http://yuilibrary.com/yui/docs/cssbase/
 
 html
 {
-	color: #000;
-	background-color: #ccc;
+	color: #747474;
+	background-color: #fff;
 	font-size: 100%; 
 	overflow-y: scroll; 
 	-webkit-text-size-adjust: 100%; 
@@ -655,7 +655,7 @@ Shadows and Transitions
 	position: relative;
 	left: 16%;
 	width: 54%;
-	background-color: #ddd;
+	background-color: #fff;
 	margin-bottom: 0;
 	text-align: center;
 }
@@ -879,7 +879,7 @@ BASIC LAYOUT
 #toc_sidebar .sidebar_minimiser ul#toc_list
 {
 	padding-bottom: 2em;
-	background-color: #ccc;
+	background-color: #FFF;
 }
 
 #toc_sidebar .sidebar_minimiser ul#toc_list li.current_page_ancestor > a,
@@ -988,7 +988,7 @@ ul#sidebar_tabs li a.active-tab
 	height: 520px;
 	overflow-y: scroll;
 	padding: 0;
-	background-color: #ccc;
+	background-color: #fff;
 }
 
 #sidebar .sidebar_container .sidebar_header
@@ -1526,7 +1526,7 @@ div#respond .subscribe_reloaded_insert
 	font-size: 80%;
 	text-align: center;
 	font-family: sans-serif;
-	background-color: #ccc;
+	background-color: #FFF;
 }
 
 #footer_inner p
